@@ -1,2 +1,0 @@
-# mergehero
-merge idle
