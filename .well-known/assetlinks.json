@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nev1sov.crystalworlds",
+        "sha256_cert_fingerprints": ["D6:72:75:8A:A0:D4:BE:87:88:0A:B4:27:1D:CA:F9:CB:B0:D5:6F:28:9B:C3:35:3A:60:D2:80:4E:6E:5D:41:2F"]
+      }
+    }]
